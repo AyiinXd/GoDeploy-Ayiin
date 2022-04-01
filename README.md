@@ -1,7 +1,6 @@
 # Ayiin-Userbot Telegram
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/AyiinXd/Ayiin-Userbot)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)](https://GitHub.com/AyiinXd/Ayiin-Userbot/graphs/commit-activity)
-[![CodeFactor](https://www.codefactor.io/repository/github/AyiinXd/Ayiin-Userbot/badge)](https://www.codefactor.io/repository/github/AyiinXd/Ayiin-Userbot)
 [![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/AyiinXd/Ayiin-Userbot/dashboard)
 [![Docker Pulls](https://img.shields.io/docker/pulls/AyiinXd/Ayiin-userbot)](https://hub.docker.com/r/AyiinXd/ayiin-userbot/tags)
 [![GitHub Forks](https://img.shields.io/github/forks/AyiinXd/Ayiin-Userbot?&logo=github)](https://github.com/AyiinXd/Ayiin-Userbot/fork)
