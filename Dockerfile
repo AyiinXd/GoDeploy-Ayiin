@@ -1,9 +1,11 @@
-FROM mrismanaziz/man-userbot:buster
+FROM ayiinxd/ayiin-userbot:buster
 
-RUN git clone -b Man-Userbot https://github.com/mrismanaziz/Man-Userbot /home/man-userbot/ \
-    && chmod 777 /home/man-userbot \
-    && mkdir /home/man-userbot/bin/
+RUN git clone -b Ayiin-Userbot https://github.com/AyiinXd/Ayiin-Userbot /home/ayiinuserbot/ \
+    && chmod 777 /home/ayiinuserbot \
+    && mkdir /home/ayiinuserbot/bin/
 
-WORKDIR /home/man-userbot/
+COPY ./sample_config.env ./config.env* /home/ayiinuserbot/
 
-CMD [ "bash", "start" ]
+WORKDIR /home/ayiinuserbot/
+
+CMD ["bash","start"]
