@@ -1,13 +1,13 @@
-# Man-Userbot Telegram
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/mrismanaziz/Man-Userbot)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)](https://GitHub.com/mrismanaziz/Man-Userbot/graphs/commit-activity)
-[![CodeFactor](https://www.codefactor.io/repository/github/mrismanaziz/Man-Userbot/badge)](https://www.codefactor.io/repository/github/mrismanaziz/Man-Userbot)
-[![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/mrismanaziz/Man-Userbot/dashboard)
-[![Docker Pulls](https://img.shields.io/docker/pulls/mrismanaziz/man-userbot)](https://hub.docker.com/r/mrismanaziz/man-userbot/tags)
-[![GitHub Forks](https://img.shields.io/github/forks/mrismanaziz/Man-Userbot?&logo=github)](https://github.com/mrismanaziz/Man-Userbot/fork)
-[![GitHub Stars](https://img.shields.io/github/stars/mrismanaziz/Man-Userbot?&logo=github)](https://github.com/mrismanaziz/Man-Userbot/stargazers)
+# Ayiin-Userbot Telegram
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/AyiinXd/Ayiin-Userbot)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)](https://GitHub.com/AyiinXd/Ayiin-Userbot/graphs/commit-activity)
+[![CodeFactor](https://www.codefactor.io/repository/github/AyiinXd/Ayiin-Userbot/badge)](https://www.codefactor.io/repository/github/AyiinXd/Ayiin-Userbot)
+[![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/AyiinXd/Ayiin-Userbot/dashboard)
+[![Docker Pulls](https://img.shields.io/docker/pulls/AyiinXd/Ayiin-userbot)](https://hub.docker.com/r/AyiinXd/ayiin-userbot/tags)
+[![GitHub Forks](https://img.shields.io/github/forks/AyiinXd/Ayiin-Userbot?&logo=github)](https://github.com/AyiinXd/Ayiin-Userbot/fork)
+[![GitHub Stars](https://img.shields.io/github/stars/AyiinXd/Ayiin-Userbot?&logo=github)](https://github.com/AyiinXd/Ayiin-Userbot/stargazers)
 
-Man-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
+Ayiin-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 
 Berbasis [Paperplane](https://github.com/RaphielGang/Telegram-UserBot) dan [ProjectBish](https://github.com/adekmaulana/ProjectBish) userbot.
 Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.
@@ -58,14 +58,14 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 -  `cd Man-Userbot`
 -  `pip3 install -r requirements.txt`
 -  `mv sample_config.env config.env`
--  edit config.env Anda dan isi VARS menggunakan `nano config.env` `CTRL + S ` untuk menyimpan VARS Anda, gunakan `CTRL + X` untuk keluar dan kembali ke direktori Man-Userbot
--  Buka SCRREN di VPS Anda `screen -S Man-Userbot`
--  Kemudian gunakan perintah ini untuk menyebarkan Man-Userbot `python3 -m userbot`
+-  edit config.env Anda dan isi VARS menggunakan `nano config.env` `CTRL + S ` untuk menyimpan VARS Anda, gunakan `CTRL + X` untuk keluar dan kembali ke direktori Ayiin-Userbot
+-  Buka SCRREN di VPS Anda `screen -S Ayiin-Userbot`
+-  Kemudian gunakan perintah ini untuk menyebarkan Ayiin-Userbot `python3 -m userbot`
 
 </details>
 
 <h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
-<p align="center"><a href="https://risman.vercel.app/deploy.html"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AyiinXd/GoDeploy-Ayiin"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
 
 ## Updates & Support
 
