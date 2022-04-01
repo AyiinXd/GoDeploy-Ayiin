@@ -1,22 +1,25 @@
 {
-  "name": "Man-Userbot",
-  "description": "[Man-Userbot] This is UserBot Telegram with many cool modules. Written in Python with Telethon and Py-Tgcalls.",
+  "name": "⋆ 𝘼𝙮𝙞𝙞𝙣-𝙐𝙨𝙚𝙧𝙗𝙤𝙩 ⋆",
+  "description": "[Ayiin-Userbot] Userbot Hanya Untuk Bersenang - Senang",
+  "logo": "https://telegra.ph/file/c6a0aef41355af5a018c6.jpg",
+  "keywords": ["telegram", "userbot", "Ayiin-Userbot", "modular", "python"],
+  "repository": "https://github.com/AyiinXd/Ayiin-Userbot",
   "stack": "container",
   "env": {
     "API_KEY": {
-      "description": "Dapatkan API KEY di web my.telegram.org Masukan yg APP ID Telegram",
+      "description": "Dapatkan API KEY di Grup » https://t.me/AyiinXdSupport » Lalu ketik #api atau di web my.telegram.org Masukan yg APP ID Telegram",
       "required": true
     },
     "API_HASH": {
-      "description": "Dapatkan API Hash di web my.telegram.org",
+      "description": "Dapatkan API Hash di Grup » https://t.me/AyiinXdSupport » Lalu ketik #api atau di web my.telegram.org",
       "required": true
     },
-    "BOT_TOKEN": {
-      "description": "Buat Bot di t.me/botfather Masukan BOT tokennya disini〔 Bila Tidak tau bisa di /skip 〕",
-      "required": false
+    "CMD_HANDLER": {
+      "description": "Isi dengan cmd bisa pake . atau apa aja",
+      "value": "+"
     },
      "STRING_SESSION": {
-      "description": "Dapatkan String Session di Grup » https://t.me/SharingUserbot » Lalu ketik /get string",
+      "description": "Dapatkan String Session di Grup » https://t.me/AyiinXdSupport » Lalu ketik #string",
       "required": true
     },
     "HEROKU_APP_NAME": {
