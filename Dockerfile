@@ -1,10 +1,10 @@
 FROM ayiinxd/ayiin-userbot:buster
 
-RUN git clone -b Ayiin-Userbot https://github.com/AyiinXd/Yins-Userbot /home/ayiinuserbot/ \
-    && chmod 777 /home/ayiinuserbot \
-    && mkdir /home/ayiinuserbot/bin/
+RUN git clone -b AyiinUbot https://github.com/AyiinXd/AyiinUbot /home/ayiinubot/ \
+    && chmod 777 /home/ayiinubot\
+    && mkdir /home/ayiinubot/bin/
 
 
-WORKDIR /home/ayiinuserbot/
+WORKDIR /home/ayiinubot/
 
 CMD ["bash","start"]
